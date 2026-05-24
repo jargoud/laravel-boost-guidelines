@@ -1,0 +1,41 @@
+{
+    "name": "jargoud/laravel-boost-guidelines",
+    "version": "1.0.0",
+    "description": "Jargoud's Laravel & PHP coding guidelines as AI skills for Laravel Boost and skills.sh",
+    "keywords": [
+        "laravel",
+        "boost",
+        "guidelines",
+        "coding-standards"
+    ],
+    "homepage": "https://github.com/jargoud/laravel-boost-guidelines",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jérémy ARGOUD",
+            "email": "jeremy.argoud@gmail.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": "^8.4",
+        "illuminate/contracts": "^11.0||^12.0||^13.0"
+    },
+    "require-dev": {
+        "spatie/guidelines-skills": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jargoud\\LaravelBoostGuidelines\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jargoud\\LaravelBoostGuidelines\\ServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
