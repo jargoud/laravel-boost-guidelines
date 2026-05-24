@@ -1,7 +1,7 @@
 {
     "name": "jargoud/laravel-boost-guidelines",
     "version": "1.0.0",
-    "description": "Jargoud's Laravel & PHP coding guidelines as AI skills for Laravel Boost and skills.sh",
+    "description": "Opinionated Laravel & PHP coding guidelines as AI skills for Laravel Boost",
     "keywords": [
         "laravel",
         "boost",
