@@ -1,6 +1,6 @@
 # Laravel Boost Guidelines
 
-Jargoud's Laravel & PHP coding guidelines as AI skills, compatible with [Laravel Boost](https://laravel.com/docs/master/boost).
+Opinionated Laravel & PHP coding guidelines as AI skills, compatible with [Laravel Boost](https://laravel.com/docs/master/boost).
 
 ## Installation
 
